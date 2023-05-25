@@ -1,0 +1,33 @@
+.text-highlight {
+    color: #62adc3;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.text-link {
+    color: #6386bb;
+}
+
+.bg-link {
+    background-color: #6386bb;
+    color: white;
+}
+.bg-link:hover {
+    color: #6386bb;
+    background-color: white;
+    border-color: #6386bb;
+}
+
+.bg-button {
+    background-color: #2a4979;
+    color: white;
+}
+.bg-button:hover {
+    color: #2a4979;
+    background-color: white;
+    border-color: #2a4979;
+}
+
+a:hover {
+    padding-left: +2%;
+}
