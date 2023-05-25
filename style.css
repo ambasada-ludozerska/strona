@@ -106,8 +106,13 @@
     color: white;
     text-decoration-line: none;
 }
-
-.black-navbar-link:hover{
-    color: #f6c760;
-    text-decoration-line: none;
+.text-highlight {
+    color: #62adc3;
+    font-weight: bold;
+    font-style: italic;
 }
+
+.text-link {
+    color: #6386bb;
+}
+
